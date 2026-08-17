@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-n52760.jambul126.online/sitemap.xml
